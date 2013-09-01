@@ -21,7 +21,7 @@ hi Cursor       guibg=#aaaaaa
 hi lCursor      guibg=#aaaaaa
 hi Visual       guibg=#004254
 
-" Search (IncSearch is also RIV link hover)
+" Search
 hi Search       guifg=#161C00   guibg=#BEED00   gui=bold
 hi IncSearch    guifg=#004357   guibg=#B8EFFF
 
