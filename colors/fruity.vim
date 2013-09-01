@@ -206,14 +206,11 @@ hi makeSpecTarget   guifg=#ABE841
 hi makeCommands     guifg=#B0EAEB
 
 " Rst highlighting
-hi rstFileLink                      guifg=#0086d2 gui=NONE
-hi rstFileExtLink                   guifg=#0086d2 gui=NONE
 hi rstStandaloneHyperlink           guifg=#5CB6ED gui=NONE
 hi rstFootnoteReference             guifg=#5CB6ED gui=NONE
 hi rstCitationReference             guifg=#5CB6ED gui=NONE
 hi rstHyperLinkReference            guifg=#5CB6ED gui=NONE
 hi rstInlineInternalTargets         guifg=#5CB6ED gui=NONE
-hi rstPhaseHyperLinkReference       guifg=#5CB6ED gui=NONE
 
 " Directory listings (mostly NERDTree)
 hi Directory        guifg=#6EDE23
