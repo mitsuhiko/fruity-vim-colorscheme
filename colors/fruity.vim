@@ -37,11 +37,11 @@ hi CursorLineNr guifg=#ffffff   guibg=#00252e
 hi MatchParen   guifg=#b1b711   guibg=NONE      gui=bold
 
 " Signs and gutter
-hi SignColumn                             guibg=#00171C
-hi GitGutterAdd           guifg=#5BCF21   guibg=#00171C
-hi GitGutterChange        guifg=#CF9A21   guibg=#00171C
-hi GitGutterDelete        guifg=#CF2121   guibg=#00171C
-hi GitGutterChangeDelete  guifg=#95CF21   guibg=#00171C
+hi SignColumn                             guibg=#002B36
+hi GitGutterAdd           guifg=#5BCF21   guibg=#002B36
+hi GitGutterChange        guifg=#CF9A21   guibg=#002B36
+hi GitGutterDelete        guifg=#CF2121   guibg=#002B36
+hi GitGutterChangeDelete  guifg=#95CF21   guibg=#002B36
 
 " Completion menu
 hi Pmenu        guifg=#ffffff   guibg=#0D4854
