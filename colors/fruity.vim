@@ -34,7 +34,7 @@ hi CursorLine   guibg=#001C24
 hi ColorColumn  guibg=#011c25
 hi LineNr       guifg=#aaaaaa   guibg=#00252e
 hi CursorLineNr guifg=#ffffff   guibg=#00252e
-hi MatchParen   guifg=#b1b711   guibg=NONE      gui=bold
+hi MatchParen   guifg=#CEF2D0   guibg=#105715   gui=bold
 
 " Signs and gutter
 hi SignColumn                             guibg=#002B36
