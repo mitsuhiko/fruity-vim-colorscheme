@@ -217,6 +217,8 @@ hi rstFootnoteReference             guifg=#5CB6ED gui=NONE
 hi rstCitationReference             guifg=#5CB6ED gui=NONE
 hi rstHyperLinkReference            guifg=#5CB6ED gui=NONE
 hi rstInlineInternalTargets         guifg=#5CB6ED gui=NONE
+hi rstDoctestBlock                  guifg=#9AD3E3
+hi rstSections                      guifg=#32C7C7
 
 " Directory listings (mostly NERDTree)
 hi Directory        guifg=#6EDE23
