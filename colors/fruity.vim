@@ -42,6 +42,8 @@ hi GitGutterAdd           guifg=#5BCF21   guibg=#002B36
 hi GitGutterChange        guifg=#CF9A21   guibg=#002B36
 hi GitGutterDelete        guifg=#CF2121   guibg=#002B36
 hi GitGutterChangeDelete  guifg=#95CF21   guibg=#002B36
+hi SyntasticErrorSign     guifg=#EB1515   guibg=#3B0000
+hi SyntasticWarningSign   guifg=#ED9A09   guibg=#422A00
 
 " Completion menu
 hi Pmenu        guifg=#ffffff   guibg=#0D4854
