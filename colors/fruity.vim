@@ -31,7 +31,7 @@ hi StatusLineNC guifg=#506070   guibg=#DFE9F2
 hi VertSplit    guifg=#a0b0c0   guibg=#a0b0c0
 hi Folded       guifg=#111111   guibg=#8090a0
 hi CursorLine   guibg=#001C24
-hi ColorColumn  guibg=#00252e
+hi ColorColumn  guibg=#011c25
 hi LineNr       guifg=#aaaaaa   guibg=#00252e
 hi CursorLineNr guifg=#ffffff   guibg=#00252e
 hi MatchParen   guifg=#b1b711   guibg=NONE      gui=bold
