@@ -61,15 +61,15 @@ hi Special      guifg=#fd8900
 hi String       guifg=#0086d2
 hi Constant     guifg=#007DC4
 hi Number       guifg=#0086f7                   gui=bold
-hi Statement    guifg=#fb660a                   gui=bold
-hi Function     guifg=#00A6FF
+hi Statement    guifg=#038EC1                   gui=NONE
+hi Function     guifg=#1BB3FF
 hi PreProc      guifg=#ff0007                   gui=bold
 hi Comment      guifg=#00d2ff   guibg=#0a1323   gui=italic
 hi Type         guifg=#00A8A0   gui=NONE
 hi Error        guifg=#ffffff   guibg=#ab0000
 hi Identifier   guifg=#79E33B
 hi Label        guifg=#BD55E6
-hi Operator     guifg=#aaaaaa
+hi Operator     guifg=#8ECFDD
 
 " Minibuf Explorer
 hi MBENormal          guifg=#00d2ff
@@ -78,17 +78,17 @@ hi MBEChanged         guifg=#00d2ff gui=underline
 hi MBEVisibleChanged  guifg=#fd8900 gui=bold,underline
 
 " Python Highlighting for python.vim
-hi pythonCoding guifg=#ff0086
-hi pythonRun    guifg=#ff0086
-hi pythonBuiltinObj     guifg=#2b6ba2           gui=bold
-hi pythonBuiltinFunc    guifg=#2b6ba2           gui=bold
-hi pythonException      guifg=#ee0000           gui=bold
-hi pythonExClass        guifg=#66cd66           gui=bold
+hi pythonCoding guifg=#FF15A1
+hi pythonRun    guifg=#FF15A1
+hi pythonBuiltinObj     guifg=#2b6ba2           gui=NONE
+hi pythonBuiltinFunc    guifg=#2b6ba2           gui=NONE
+hi pythonException      guifg=#ee0000           gui=NONE
+hi pythonExClass        guifg=#66cd66           gui=NONE
 hi pythonSpaceError     guibg=#270000
 hi pythonDocTest    guifg=#3c8e68   guibg=#02101d
 hi pythonDocTest2   guifg=#3c8e68   guibg=#02101d
-hi pythonFunction   guifg=#82C100               gui=bold
-hi pythonClass      guifg=#ff0086               gui=bold
+hi pythonFunction   guifg=#82C100               gui=NONE
+hi pythonClass      guifg=#FF15A1               gui=NONE
 hi pythonString     guifg=#0086d2   guibg=#031526
 hi pythonEscape     guifg=#fd8900   guibg=#031526
 hi pythonStrFormat  guifg=#fd8900   guibg=#031526
@@ -105,7 +105,7 @@ hi javaScriptLabel              guifg=#00bdec   gui=italic
 hi javaScriptPrototype          guifg=#00bdec
 hi javaScriptConditional        guifg=#ff0007   gui=bold
 hi javaScriptRepeat             guifg=#ff0007   gui=bold
-hi javaScriptFunction           guifg=#ff0086   gui=bold
+hi javaScriptFunction           guifg=#FF15A1   gui=bold
 
 " CSS Highlighting
 hi cssIdentifier            guifg=#66cd66       gui=bold
@@ -120,7 +120,7 @@ hi rubyKeyword      guifg=#dd0000               gui=bold
 hi rubyConditional  guifg=#dd0000               gui=bold
 hi rubyControl      guifg=#ff0000               gui=bold
 hi rubyRepeat       guifg=#ff0000               gui=bold
-hi rubySymbol       guifg=#ff0086
+hi rubySymbol       guifg=#FF15A1
 hi rubyASCIICode    guifg=#bb0066               gui=bold
 hi rubyIdentifier               guifg=#008aff
 hi rubyGlobalVariable           guifg=#dd7700
@@ -162,7 +162,7 @@ hi djangoVarBlock   guifg=#ff0007   guibg=#200000
 hi djangoArgument   guifg=#0086d2   guibg=#200000
 hi djangoStatement  guifg=#fb660a   guibg=#200000   gui=bold
 hi djangoComment    guifg=#008800   guibg=#002300   gui=italic
-hi djangoFilter     guifg=#ff0086   guibg=#200000   gui=italic
+hi djangoFilter     guifg=#FF15A1   guibg=#200000   gui=italic
 
 " Jinja Highlighting
 hi jinjaTagBlock    guifg=#ff0007   guibg=#200000   gui=bold
@@ -172,8 +172,8 @@ hi jinjaNumber      guifg=#bf0945   guibg=#200000   gui=bold
 hi jinjaStatement   guifg=#fb660a   guibg=#200000   gui=bold
 hi jinjaComment     guifg=#008800   guibg=#002300   gui=italic
 hi jinjaCommentDelim guifg=#008800  guibg=#002300   gui=bold
-hi jinjaFilter      guifg=#ff0086   guibg=#200000
-hi jinjaFunction    guifg=#ff0086   guibg=#200000   gui=bold
+hi jinjaFilter      guifg=#FF15A1   guibg=#200000
+hi jinjaFunction    guifg=#FF15A1   guibg=#200000   gui=bold
 hi jinjaRaw         guifg=#ffffff   guibg=#200000
 hi jinjaRawDelim    guifg=#aaaaaa   guibg=#200000   gui=bold
 hi jinjaOperator    guifg=#ffffff   guibg=#200000
