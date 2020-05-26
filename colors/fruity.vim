@@ -21,6 +21,10 @@ hi Cursor       guibg=#aaaaaa
 hi lCursor      guibg=#aaaaaa
 hi Visual       guibg=#004254
 
+hi TabLine      guibg=#004254   guifg=white     gui=NONE
+hi TabLineFill  guibg=#004254   guifg=#000000   gui=bold
+hi TabLineSel   guibg=#001217                   gui=bold
+
 " Search
 hi Search       guifg=#161C00   guibg=#BEED00   gui=bold
 hi IncSearch    guifg=#004357   guibg=#B8EFFF
